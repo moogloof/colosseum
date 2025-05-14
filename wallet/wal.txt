@@ -1,0 +1,7 @@
+Wrote new keypair to target/deploy/tweet_bet-keypair.json
+===========================================================================
+pubkey: E7ZGz1kAowmfdcBW8rEhHgX2vbMP1FeFzmVgUbqSScSF
+===========================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+curve vanish veteran agent fossil clog helmet mention kid life pony anxiety
+===========================================================================
